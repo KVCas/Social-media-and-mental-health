@@ -6,7 +6,7 @@ In light of the increased use of social media, mental health professionals and t
 
 This project will focus on the following questions:
 
-  - Has the increase in online presence and consumption directly impacted the adolescent population, and what are those effects? And those effects, do they directly affect the mental well-being of adolescents, and to what capacity?
+  - Has the increase in online presence and consumption directly impacted the adolescent population, and what are those effects? And those effects, do they directly affect the mental well-being of adolescents, and to what extent?
 
 
 ### Resources
