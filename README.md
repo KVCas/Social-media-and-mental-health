@@ -11,10 +11,9 @@ This project will focus on the following questions:
 
 ### Resources
 
-[Canadians’ assessments of social media in their lives](https://www150.statcan.gc.ca/n1/pub/36-28-0001/2021003/article/00004-eng.htm)
-
 [Digital well-being: the relationship between technology use, mental health and interpersonal relationships](https://www150.statcan.gc.ca/n1/pub/22-20-0001/222000012024001-eng.htm)
 
+[Canadians’ assessments of social media in their lives](https://www150.statcan.gc.ca/n1/pub/36-28-0001/2021003/article/00004-eng.htm)
 
 ### Study findings
 
