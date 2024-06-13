@@ -15,10 +15,6 @@ This project will focus on the following questions:
 
 [Digital well-being: the relationship between technology use, mental health and interpersonal relationships](https://www150.statcan.gc.ca/n1/pub/22-20-0001/222000012024001-eng.htm)
 
-[Mental health and problematic social media use in Canadian adolescents](https://www.canada.ca/en/public-health/services/publications/science-research-data/mental-health-problematic-social-media-use-canadian-adolescents.html)
-
-[Online digital media use and adolescent mental health](https://www150.statcan.gc.ca/n1/pub/82-003-x/2023002/article/00002-eng.htm)
-
 
 ### Study findings
 
