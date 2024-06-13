@@ -17,4 +17,14 @@ This project will focus on the following questions:
 
 ### Study findings
 
+The data presented in both articles shows heavy usage of the internet and social media. Whether it's for social media, general internet use, or online video games, the 2020 survey revealed that over 50% of the surveyed population uses these platforms for less than 10 hours per week on average.
+
+The general consensus among those surveyed is that they have good mental health. However, individuals who use social media or smartphones less frequently generally report better mental health compared to those who use them more. Those who reported fair or poor mental health spend an average of 19% more time on their phones compared to those who spend less time per day (12%).
+
+The survey also found that women use social media more than men, with 81.9% of women surveyed reporting higher usage compared to 73.3% of men. Additionally, females attributed more negative characteristics to social media use.
+
+Age is also a factor, with the age groups of 15 to 19-year-olds and 20 to 24-year-olds showing higher usage of the internet and social media, as well as a higher prevalence of negative characteristics associated with social media use. Loss of sleep, trouble concentrating, and less physical activity are among the highest negative characteristics for all age groups.
+
 ### Conclusion
+
+According to the data presented, the increase in online presence and consumption, especially among adolescents, has led to both positive and negative effects. While online platforms provide connectivity and access to information, heavy usage, particularly of social media and smartphones, is associated with poorer mental health outcomes. Factors such as decreased sleep, trouble concentrating, and reduced physical activity are common among younger age groups, suggesting potential adverse impacts on mental well-being. Additionally, the higher use of social media among females and younger age groups highlights the need for targeted interventions to promote healthier digital habits and mitigate negative consequences on adolescent mental health
