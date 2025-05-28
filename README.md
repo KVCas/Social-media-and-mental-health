@@ -1,5 +1,5 @@
-# Social Media and Mental Health in Canada: 
-## Analyzing data on social media and its impact on the mental health of Canadian teenagers
+# Mental Health Analytics: 
+## Quantifying Social Media Effects on Canadian Teenagers
 
 ### Introduction
 In light of the increased use of social media, mental health professionals and the public have paid more attention to the relationship between social media and mental well-being. As social media platforms become more embedded in daily life, it's important to understand their impact on mental health. This project aims to explore the effects of social media usage on the mental well-being of adolescents in Canada. By web-scraping information from articles published in _Statistics Canada_ and _Government of Canada_, I will present survey findings to gain a better understanding of the correlation and the effects on the adolescent population.
